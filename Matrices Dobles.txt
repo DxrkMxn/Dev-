@@ -1,0 +1,6 @@
+En este desarrollo se trabjan matrices dobles
+se realizan sumas, restas y multiplicación de matrices.
+
+Recuerda agradecer por aprender o usar mi código.
+
+Ing. Jhusef Alfonso López Parra
