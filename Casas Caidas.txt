@@ -1,0 +1,34 @@
+En este desarrollo se trabaja un problema muy utilizado, el ejercicio está completo, agradecería cualquier retribución o agradecimiento por aprender o usar mi código.
+
+Ing. Jhusef Alfonso López Parra - jhusef@me.com
+
+INMOBILIARIA CASAS CAÍDAS
+
+
+Usted ha sido contratado por la inmobiliaria CASAS CAÍDAS para construir un programa que
+muestre en pantalla el detalle de los inmuebles disponibles. Los inmuebles pueden ser
+casas, apartamentos, locales comerciales o lotes, y cualquier de ellos puede estar a la venta
+o para alquiler.
+Para poder ingresar a la aplicación, el usuario debe digitar una contraseña formada por 6
+caracteres, que de no ser digitada correctamente por tres veces consecutivas, detendrá la
+ejecución del programa con un mensaje de advertencia contra la suplantación de identidad.
+Al momento de registrar un inmueble como información adicional se necesita: un número
+de inmueble, el número de habitaciones (no aplica para lotes o locales), la cantidad de
+baños,si tiene garaje o no, la fecha (aaaammdd) de construcción o delimitación (en caso de
+lotes), el valor, y tres datos más que se le ocurran. El programa permite agregar inmuebles,
+siempre y cuando no se haya excedido el límite de almacenamiento (máximo 140
+inmuebles), e imprimir la lista de todos los inmuebles registrados en cualquier momento,
+con todos sus datos.
+Como valor agregado su programa permite:
+
+• La inmobiliaria CASAS CAÍDAS ha inventado una política de descuento un poco
+extraña. Si el número de habitaciones es par y los segundos en que se construyó o 
+delimitó el inmueble son impares o viceversa, se aplica un descuento del 17%, si
+ambos son pares el descuento es del triple, y si ambos son impares del doble. Sólo
+si se construyó o delimitó entre las 5 de la tarde y las 5 de la mañana se paga un
+adicional de 6%. Y el IVA del 16% sólo se cobra si el valor del inmueble supera los
+$2.000.000. A partir de esta información, calcule cuánto cuesta el alquiler o compra
+de cada inmueble de la lista.
+
+• Contar cuantos inmuebles de la lista son lotes o apartamentos y están para alquiler.
+Imprimir el resultado.
