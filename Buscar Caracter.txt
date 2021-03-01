@@ -1,0 +1,1 @@
+En este desarrollo, se bucará un caracter ingresado, en la frase: "El veloz murciélago"
