@@ -1,0 +1,5 @@
+En este desarrollo verás como se imprime en orden de espiral, los números ingresados en una matriz con dimensiones de 5x5.
+
+Recuerda agradecer por aprender o usar mi código.
+
+Ing. Jhusef Alfonso López Parra
